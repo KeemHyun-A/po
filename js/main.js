@@ -1,4 +1,10 @@
 $(document).ready(function () {
+    var con1 = true;
+    var con2 = true;
+    var con3 = true;
+    var con4 = true;
+    var con5 = true;
+
     var menu = $('#header_in>.nav>ul>li');
     var contents = $('#contens>article');
 
@@ -25,8 +31,6 @@ $(document).ready(function () {
                 menu.eq(i).addClass('on');
             }
         })
-
-
 
     })
 
