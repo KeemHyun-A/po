@@ -221,6 +221,10 @@ a {
   border: 0px;
 }
 
+#projects button a {
+  color: #ccc;
+}
+
 #projects p {
   margin-top: 30px;
   font-size: 17px;
