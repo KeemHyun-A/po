@@ -176,7 +176,7 @@ a {
 #projects {
   margin: 0 auto;
   width: 1300px;
-  height: 1000px;
+  height: 1250px;
 }
 
 #projects h3 {
@@ -239,6 +239,7 @@ a {
 #exp .exp_in {
   padding-top: 80px;
   margin-left: 15px;
+  float: left;
 }
 
 #exp h3 {
